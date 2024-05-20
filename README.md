@@ -1,4 +1,4 @@
-# SQL-Practice- 
+# SQL-Practice-Document
 
 SQL (Structured Query Language) is a domain-specific programming language designed for managing, querying, and manipulating relational databases. It is the standard language used to communicate with and operate on relational database management systems (RDBMS).
 
