@@ -14,7 +14,7 @@ SQL (Structured Query Language) is a domain-specific programming language design
 - Data Joins: Combining data from multiple tables using JOIN operations to retrieve related information.
 - Data Filtering: Filtering data based on specific criteria using WHERE clauses.
 - Data Sorting: Sorting query results in ascending or descending order using ORDER BY clauses.
-- SQL is used in a wide range of applications and industries where relational databases are prevalent, including web development, data analysis, business intelligence, finance, healthcare, and more. It provides a powerful and flexible means of interacting with structured data, making it an essential skill for anyone working with databases or data-driven applications.
+- SQL is used in a wide range of applications and industries where relational databases are prevalent, including web development, data analysis, business intelligence, finance, healthcare, and many more. It provides a powerful and flexible means of interacting with structured data, making it an essential skill for anyone working with databases or data-driven applications.
 
 
 
